@@ -1,5 +1,113 @@
 [
   {
+    "post_id": "zsxq-20260704-triangle-xiaohuang-notes-b96ae4b4591f",
+    "source_id": "triangle-xiaohuang-notes",
+    "source_alias": "Triangle",
+    "source_type": "shared_community",
+    "author": "Triangle",
+    "published_at": "2026-07-04 13:05:00",
+    "title": "【光纤缆】AI数据中心与特种场景需求推动量价齐升20260703.pdf",
+    "summary": "【光纤缆】AI数据中心与特种场景需求推动量价齐升20260703.pdf 26H2中国半导体展望 - 存储（长江存储）_20260704.pdf",
+    "body_excerpt": "26H2中国半导体展望 - 存储（长江存储）_20260704.pdf",
+    "source_url": "https://wx.zsxq.com/group/88888125845542",
+    "source_level": "L3",
+    "source_capture_ref": "fetch/zsxq-radar/2026-07-04/captures/triangle-xiaohuang-notes/page.txt",
+    "line_number": 28,
+    "signal_type": "sentiment",
+    "direction_hint": 0,
+    "importance_seed": 82,
+    "confidence": "medium",
+    "industry_id": "ai_compute_infra",
+    "tags": [
+      "shared_community",
+      "high_signal",
+      "Triangle"
+    ],
+    "export_path": "posts/001-202607041305-【光纤缆】ai数据中心与特种场景需求推动量价齐升20260703.pdf.md",
+    "original_text": "【光纤缆】AI数据中心与特种场景需求推动量价齐升20260703.pdf\n\n26H2中国半导体展望 - 存储（长江存储）_20260704.pdf"
+  },
+  {
+    "post_id": "zsxq-20260704-triangle-xiaohuang-notes-7ac429dce964",
+    "source_id": "triangle-xiaohuang-notes",
+    "source_alias": "Triangle",
+    "source_type": "shared_community",
+    "author": "Triangle",
+    "published_at": "2026-07-04 13:03:00",
+    "title": "据多名供应链核心人士爆料：台积电 CoPoS 初代或不采用玻璃基板，且从未考虑使用玻璃中介层 $GLW",
+    "summary": "据多名供应链核心人士爆料：台积电 CoPoS 初代或不采用玻璃基板，且从未考虑使用玻璃中介层 $GLW 这与当前市场上广泛流传的 “玻璃基板为 CoPoS 核心” 的叙事，以及由此引发的大量炒作行为，存在根本性出入。 依据《台湾科技》采访的多名供应链核心人士的表述，市场对于 CoPoS 技术路线的解读存在重大偏差，分歧重点集中在玻璃基板是否为首代产品必要组件这一问题。 受访业内人士均对当下泛滥的不实传言表达强烈不满，市场普遍误以为玻璃基板是 CoPoS 不可或缺的核心材料，但。",
+    "body_excerpt": "这与当前市场上广泛流传的 “玻璃基板为 CoPoS 核心” 的叙事，以及由此引发的大量炒作行为，存在根本性出入。 依据《台湾科技》采访的多名供应链核心人士的表述，市场对于 CoPoS 技术路线的解读存在重大偏差，分歧重点集中在玻璃基板是否为首代产品必要组件这一问题。 受访业内人士均对当下泛滥的不实传言表达强烈不满，市场普遍误以为玻璃基板是 CoPoS 不可或缺的核心材料，但。",
+    "source_url": "https://wx.zsxq.com/group/88888125845542",
+    "source_level": "L3",
+    "source_capture_ref": "fetch/zsxq-radar/2026-07-04/captures/triangle-xiaohuang-notes/page.txt",
+    "line_number": 34,
+    "signal_type": "technology",
+    "direction_hint": 0,
+    "importance_seed": 82,
+    "confidence": "medium",
+    "industry_id": "semiconductor_ai",
+    "tags": [
+      "shared_community",
+      "high_signal",
+      "Triangle"
+    ],
+    "export_path": "posts/002-202607041303-据多名供应链核心人士爆料：台积电-copos-初代或不采用玻璃基板，且从未考虑使用玻璃中介层-$glw.md",
+    "original_text": "据多名供应链核心人士爆料：台积电 CoPoS 初代或不采用玻璃基板，且从未考虑使用玻璃中介层 $GLW\n\n这与当前市场上广泛流传的 “玻璃基板为 CoPoS 核心” 的叙事，以及由此引发的大量炒作行为，存在根本性出入。 依据《台湾科技》采访的多名供应链核心人士的表述，市场对于 CoPoS 技术路线的解读存在重大偏差，分歧重点集中在玻璃基板是否为首代产品必要组件这一问题。 受访业内人士均对当下泛滥的不实传言表达强烈不满，市场普遍误以为玻璃基板是 CoPoS 不可或缺的核心材料，但。"
+  },
+  {
+    "post_id": "zsxq-20260704-triangle-xiaohuang-notes-eeb723f0fbd4",
+    "source_id": "triangle-xiaohuang-notes",
+    "source_alias": "Triangle",
+    "source_type": "shared_community",
+    "author": "Triangle",
+    "published_at": "2026-07-04 13:02:00",
+    "title": "【东方策略】当前科创板与15年创业板牛市对比",
+    "summary": "【东方策略】当前科创板与15年创业板牛市对比",
+    "body_excerpt": "",
+    "source_url": "https://wx.zsxq.com/group/88888125845542",
+    "source_level": "L3",
+    "source_capture_ref": "fetch/zsxq-radar/2026-07-04/captures/triangle-xiaohuang-notes/page.txt",
+    "line_number": 42,
+    "signal_type": "sentiment",
+    "direction_hint": 0,
+    "importance_seed": 82,
+    "confidence": "medium",
+    "industry_id": "",
+    "tags": [
+      "shared_community",
+      "high_signal",
+      "Triangle"
+    ],
+    "export_path": "posts/003-202607041302-【东方策略】当前科创板与15年创业板牛市对比.md",
+    "original_text": "【东方策略】当前科创板与15年创业板牛市对比\n\n【东方策略】当前科创板与15年创业板牛市对比"
+  },
+  {
+    "post_id": "zsxq-20260704-triangle-xiaohuang-notes-363f767870a3",
+    "source_id": "triangle-xiaohuang-notes",
+    "source_alias": "Triangle",
+    "source_type": "shared_community",
+    "author": "Triangle",
+    "published_at": "2026-07-04 13:00:00",
+    "title": "【华创AI新材料】氟化工更新7：制冷剂Q3长协涨价落地！看好主业稳健向上，氟材料国产替代提速",
+    "summary": "【华创AI新材料】氟化工更新7：制冷剂Q3长协涨价落地！看好主业稳健向上，氟材料国产替代提速 正如我们前期多次强调，Q3长协定价出炉，R32、R410a报价6.45和5.95万元/吨，较Q2+2800和3300元/吨，季度环比涨幅超越Q2（Q2环比分别+1000/+1600元/吨） 无惧板块调整，当前时点看制冷剂：1、传统旺季订单无虞，26H2需求预计好于26H1和25H2；海外低库存环境，当前出口订单加速兑现中；2、国内头部企业抱团挺价；英美推迟三代制冷剂淘汰时序且四代制冷剂天然存在性能瑕疵；第二批发展中国家进入HFCs制冷剂基线年收尾阶段，不排除抢货囤货加速。 先前R134a等好格局品种带头提涨，当下季度长协涨价落地，继续看好三代制冷剂长周期景气！ 氟材料：AI创新与产业升级的新引擎，兼具“卡脖子”和“国产替代”的半导体产业链关注度显著提升，务必重视国产替代含氟精细材料（PFA/FEP/电子级氢氟酸/电子级氟化液/PTFE/含氟电子特气…） 整体看，制冷剂主业已突破传统化工品范式，贡献强现金流；高端氟材料分散化爆发，建议关注：巨化股份、永和股份、三美股份、东岳集团、昊华科技、金石资源等。详细内容欢迎交流",
+    "body_excerpt": "正如我们前期多次强调，Q3长协定价出炉，R32、R410a报价6.45和5.95万元/吨，较Q2+2800和3300元/吨，季度环比涨幅超越Q2（Q2环比分别+1000/+1600元/吨） 无惧板块调整，当前时点看制冷剂：1、传统旺季订单无虞，26H2需求预计好于26H1和25H2；海外低库存环境，当前出口订单加速兑现中；2、国内头部企业抱团挺价；英美推迟三代制冷剂淘汰时序且四代制冷剂天然存在性能瑕疵；第二批发展中国家进入HFCs制冷剂基线年收尾阶段，不排除抢货囤货加速。 先前R134a等好格局品种带头提涨，当下季度长协涨价落地，继续看好三代制冷剂长周期景气！ 氟材料：AI创新与产业升级的新引擎，兼具“卡脖子”和“国产替代”的半导体产业链关注度显著提升，务必重视国产替代含氟精细材料（PFA/FEP/电子级氢氟酸/电子级氟化液/PTFE/含氟电子特气…） 整体看，制冷剂主业已突破传统化工品范式，贡献强现金流；高端氟材料分散化爆发，建议关注：巨化股份、永和股份、三美股份、东岳集团、昊华科技、金石资源等。详细内容欢迎交流",
+    "source_url": "https://wx.zsxq.com/group/88888125845542",
+    "source_level": "L3",
+    "source_capture_ref": "fetch/zsxq-radar/2026-07-04/captures/triangle-xiaohuang-notes/page.txt",
+    "line_number": 47,
+    "signal_type": "price",
+    "direction_hint": 3,
+    "importance_seed": 82,
+    "confidence": "medium",
+    "industry_id": "semiconductor_ai",
+    "tags": [
+      "shared_community",
+      "high_signal",
+      "Triangle"
+    ],
+    "export_path": "posts/004-202607041300-【华创ai新材料】氟化工更新7：制冷剂q3长协涨价落地！看好主业稳健向上，氟材料国产替代提速.md",
+    "original_text": "【华创AI新材料】氟化工更新7：制冷剂Q3长协涨价落地！看好主业稳健向上，氟材料国产替代提速\n\n正如我们前期多次强调，Q3长协定价出炉，R32、R410a报价6.45和5.95万元/吨，较Q2+2800和3300元/吨，季度环比涨幅超越Q2（Q2环比分别+1000/+1600元/吨） 无惧板块调整，当前时点看制冷剂：1、传统旺季订单无虞，26H2需求预计好于26H1和25H2；海外低库存环境，当前出口订单加速兑现中；2、国内头部企业抱团挺价；英美推迟三代制冷剂淘汰时序且四代制冷剂天然存在性能瑕疵；第二批发展中国家进入HFCs制冷剂基线年收尾阶段，不排除抢货囤货加速。 先前R134a等好格局品种带头提涨，当下季度长协涨价落地，继续看好三代制冷剂长周期景气！ 氟材料：AI创新与产业升级的新引擎，兼具“卡脖子”和“国产替代”的半导体产业链关注度显著提升，务必重视国产替代含氟精细材料（PFA/FEP/电子级氢氟酸/电子级氟化液/PTFE/含氟电子特气…） 整体看，制冷剂主业已突破传统化工品范式，贡献强现金流；高端氟材料分散化爆发，建议关注：巨化股份、永和股份、三美股份、东岳集团、昊华科技、金石资源等。详细内容欢迎交流"
+  },
+  {
     "post_id": "zsxq-20260704-triangle-xiaohuang-notes-fa095f8c43bd",
     "source_id": "triangle-xiaohuang-notes",
     "source_alias": "Triangle",
@@ -12,7 +120,7 @@
     "source_url": "https://wx.zsxq.com/group/88888125845542",
     "source_level": "L3",
     "source_capture_ref": "fetch/zsxq-radar/2026-07-04/captures/triangle-xiaohuang-notes/page.txt",
-    "line_number": 28,
+    "line_number": 65,
     "signal_type": "order",
     "direction_hint": 0,
     "importance_seed": 82,
@@ -23,7 +131,7 @@
       "high_signal",
       "Triangle"
     ],
-    "export_path": "posts/001-202607040122-重点摘要.md",
+    "export_path": "posts/005-202607040122-重点摘要.md",
     "original_text": "重点摘要\n\n铠侠和闪迪已经在日本 K2 工厂投产第十代 3D NAND 闪存产品。 K2 工厂此前主要量产第八代 3D NAND 闪存，现阶段工厂将同步扩大第十代闪存的生产规模。 第八代、第十代两代闪存产品全部搭载 CBA 技术，以此实现更优性能、源头内容加微DYXZ0524更大存储容量以及更低功耗表现。 K2 工厂本身配备抗震建筑设计、AI 自动化产线以及节能生产设备。 铠侠与闪迪双方已经将合资公司合作期限延长至 2034 年 12 月。 两家厂商持续加大资金投入，用来支撑未来多年 NAND 存储比特产能增长与产线扩建规划。 铠侠与闪迪的合作关系，在 NAND 闪存技术创新领域已经携手深耕超过 25 年。 重要性 本次扩产能够扩充闪存制造产能，匹配持续走高的 AI 算力与海量数据存储市场需求。 长期巩固两家厂商在 NAND 闪存领域的稳定供货能力与行业技术领先地位。 进一步稳固美国、日本之间半导体制造领域的战略合作伙伴关系。 专家声明 “我们十分欣喜，能够在北上厂区投产先进的第十代闪存。Fab2 厂区产出的第八代及后续迭代闪存产品，会为高速扩张的 AI 市场创造全新价值。依托长期合作关系与规模化产能优势，铠侠会持续打造行业领先的闪存产品，达成可持续的公司增长目标。铠侠也会持续为半导体产业进步、本地及全国经济发展贡献力量。”—— 铠侠营运株式会社社长兼 CEO 芝山孝一郎。 “高性能闪存技术的市场需求正在持续攀升，源 头内容 加微DYXZ0524我们在北上工厂启动第十代 3D 闪存量产，对两家公司而言都是关键发展里程碑。依托 K2 工厂，我们会持续凭借全球顶尖的 NAND 技术服务客户，同时为厂区所在社区创造全新经济就业机会，成为美日稳健经贸合作的典型范例。”—— 闪迪 Corporation 首席技术官 Alper Ilkbahar。"
   },
   {
@@ -39,7 +147,7 @@
     "source_url": "https://wx.zsxq.com/group/88888125845542",
     "source_level": "L3",
     "source_capture_ref": "fetch/zsxq-radar/2026-07-04/captures/triangle-xiaohuang-notes/page.txt",
-    "line_number": 50,
+    "line_number": 87,
     "signal_type": "financial",
     "direction_hint": 0,
     "importance_seed": 82,
@@ -50,7 +158,7 @@
       "high_signal",
       "Triangle"
     ],
-    "export_path": "posts/002-202607040121-迈克尔・伯里表示，他已于-7-月-2-日以每股-1051.87-美元的价格直接做空美光，判断看跌期权权利金成本过高，因此选择直接做空股票，后续如果股价走势趋于平.md",
+    "export_path": "posts/006-202607040121-迈克尔・伯里表示，他已于-7-月-2-日以每股-1051.87-美元的价格直接做空美光，判断看跌期权权利金成本过高，因此选择直接做空股票，后续如果股价走势趋于平.md",
     "original_text": "迈克尔・伯里表示，他已于 7 月 2 日以每股 1051.87 美元的价格直接做空美光，判断看跌期权权利金成本过高，因此选择直接做空股票，后续如果股价走势趋于平稳、波动率出现下降，计划追加看跌头寸。\n\n伯里指出，当前美光股价偏离 200 日均线长期均线，飙升幅度已经触及历史最高水平，泡沫程度甚至超过过往互联网泡沫顶峰阶段。 美光当前市销率（PSR）达到 14.2 倍，相比历史中位数值高出 2.2 倍。 除此之外，他评价称，美光是过去 42 年里经历 34 次跌幅超 30% 暴跌的强周期性公司，长期资本回报率（4%）、净资产收益率（7%）表现均较差，接近一半的经营周期里自由现金流（FCF）处于赤字状态，盈利能力十分薄弱。 他明确判断，近期股价暴涨并非基于对公司业绩的理性分析，源头内容加微DYXZ0524而是市场害怕踏空（FOMO）、盲目追涨情绪交织催生的资产泡沫。 同时他提到，当前市场热度极高的 HBM，只是每一轮存储周期都会出现的新品迭代延续，存储行业的供给主导权早已不在美光手中，行业资本开支方向由三星电子、SK 海力士这类韩国公司的设备投资计划决定。 市场观点：他在做空操作前，应当完整研读了美光财报以及本年度行业指引。"
   },
   {
@@ -66,7 +174,7 @@
     "source_url": "https://wx.zsxq.com/group/88888125845542",
     "source_level": "L3",
     "source_capture_ref": "fetch/zsxq-radar/2026-07-04/captures/triangle-xiaohuang-notes/page.txt",
-    "line_number": 64,
+    "line_number": 101,
     "signal_type": "price",
     "direction_hint": 3,
     "importance_seed": 82,
@@ -77,7 +185,7 @@
       "high_signal",
       "Triangle"
     ],
-    "export_path": "posts/003-202607040121-全面看好模拟及供应链，景气周期刚开始.md",
+    "export_path": "posts/007-202607040121-全面看好模拟及供应链，景气周期刚开始.md",
     "original_text": "全面看好模拟及供应链，景气周期刚开始\n\n模拟行业景气度更新： 一、涨价问题反馈：模拟全行业已经开启涨价。在执行的短期合同针对成本做涨价，新签合同全部涨价。 二、交期翻倍：国内交期从6周翻倍到12周及以上，海外交期16周以上（期间随时延长交期&涨价）。 三、交流维度：陆续有上市公司公开交流口径提及开启涨价和传导成本，根据我们对行业成本端的跟踪，实际情况不限于传导成本。对标上一轮周期，三季度及明年行业盈利能力将得到很大程度优化。且模拟板块已经是二季度明显环比绩优的板块。 四、建议关注：圣邦、思瑞浦、纳芯微、帝奥微、芯朋微等 模拟高景气度指引下，半导体设备反弹优选华峰测控： 一、单6月订单3.6亿，上半年订单17-18亿，模拟设计公司下单强度加大，且客户在H2的订单指引更强。对应明年40%的净利率兑现力度。 二、围绕算力：SLT/老化设备开始放量，8600空间翻倍。 三、存储出海：与韩国三星下属相关公司合作，未来面向国内、海外两个市场。 欢迎联系天风电子团队"
   },
   {
@@ -93,7 +201,7 @@
     "source_url": "https://wx.zsxq.com/group/88888125845542",
     "source_level": "L3",
     "source_capture_ref": "fetch/zsxq-radar/2026-07-04/captures/triangle-xiaohuang-notes/page.txt",
-    "line_number": 83,
+    "line_number": 120,
     "signal_type": "technology",
     "direction_hint": 0,
     "importance_seed": 82,
@@ -104,7 +212,7 @@
       "high_signal",
       "Triangle"
     ],
-    "export_path": "posts/004-202607040120-【招商电子】存储跟踪之江波龙26h1业绩预告：营收与利润增速亮眼，建议持续关注存储后续走势.md",
+    "export_path": "posts/008-202607040120-【招商电子】存储跟踪之江波龙26h1业绩预告：营收与利润增速亮眼，建议持续关注存储后续走势.md",
     "original_text": "【招商电子】存储跟踪之江波龙26H1业绩预告：营收与利润增速亮眼，建议持续关注存储后续走势\n\n江波龙发布2026半年度业绩预告，26H1营收预计220-250亿元，同比+116%～145%，归母净利润预计92-110亿元，同比+62204%～74394%，扣非归母净利预计90-105亿元，同比+27844%～32502%，其中26Q2营收预计120.91-150.91亿元，同比+104%～154%/环比+22%～52%，归母净利润预计53.38-71.38亿元，同比+3096%～4174%/环比+38%～85%，扣非归母净利预计50.57-65.57亿元，同比+2061%～2702%/环比+28%～66%。公司已与多家存储原厂续签LTA协议。 投资建议：江波龙率先公布2026上半年业绩预告，整体业绩表现亮眼，后续将陆续进入海内外存储厂商二季度业绩披露期，我们认为AI需求仍将持续旺盛，存储作为半导体核心主线将长期持续，建议关注存储+设备+产业链三大核心环节相关公司： 海外存储：闪迪、美光、SK海力士、西部数据、铠侠、三星、希捷等； 模组：江波龙、佰维存储、德明利、朗科科技等； 利基存储：兆易创新、普冉股份、北京君正、东芯股份、恒烁股份、聚辰股份等； 代工和封测：中芯国际、华虹公司、长电科技、通富微电、华天科技、汇成股份、深科技等； 设备：北方华创、中微公司、拓荆科技、华海清科、屹唐股份、微导纳米、芯源微、精测电子、中科飞测、矽电股份、联动科技、金海通、精智达等； 零部件：富创精密、江丰电子、正帆科技、新莱应材、臻宝科技、珂玛科技、先锋精科等； 材料：江丰电子、艾森股份、神工股份、鼎龙股份、上海新阳、兴福电子、安集科技、路维光电、清溢光电、龙图光罩、欧莱新材等。 江波龙26Q1点评：【招商电子】江波龙：26Q1 营收和利润环比高增，存货规模持续大幅提升"
   },
   {
@@ -120,7 +228,7 @@
     "source_url": "https://wx.zsxq.com/group/88888125845542",
     "source_level": "L3",
     "source_capture_ref": "fetch/zsxq-radar/2026-07-04/captures/triangle-xiaohuang-notes/page.txt",
-    "line_number": 104,
+    "line_number": 141,
     "signal_type": "risk",
     "direction_hint": -3,
     "importance_seed": 82,
@@ -131,7 +239,7 @@
       "high_signal",
       "Triangle"
     ],
-    "export_path": "posts/005-202607040120-【广发通信】情绪宣泄远大于基本面变化.md",
+    "export_path": "posts/009-202607040120-【广发通信】情绪宣泄远大于基本面变化.md",
     "original_text": "【广发通信】情绪宣泄远大于基本面变化\n\n今天光通信产业链大幅回调，昨晚meta推出云服务和算力出租的信息是诱因之一，经我们仔细检查算力采购链，#我们暂时没有看到任何光互连需求的变化。我们认为今天的回调主要是情绪的宣泄，我们仍然坚定看好并推荐光互连龙头公司#中际旭创/新易盛/天孚通信/源杰科技/东山精密 🪶我们从昨晚到今天中午，咨询了从meta供应链，到meta光模块多个主力供应商，没有发现近期有任何meta总需求的下修，#相反二季度meta大幅增加2027年800G光模块需求 🪶我们认为，今天A股光互连龙头的大幅回调主要受到外围市场影响，以及A股投资者在算力不确定性走高时的风险规避。但我们始终认为，#meta推出云服务和算力出租业务仅是对自身算力硬件供/需的优化和补充，对全市场总需求不影响，反而增加自身投入的坚定性 继续推荐光互连龙头公司#中际旭创/新易盛/天孚通信/源杰科技/东山精密，我们认为在26-27光模块需求依然供不应求，行业需求缺口在20%以上，产业需求增速翻倍以上，行业依然景气度极高。 风险提示：产业发展不及预期"
   }
 ]
