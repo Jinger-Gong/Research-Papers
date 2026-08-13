@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-13",
+  "source_id": "triangle-xiaohuang-notes",
+  "source_alias": "Triangle",
+  "source_type": "shared_community",
+  "created_at": "2026-08-13 08:23:31",
+  "privacy_scope": "private_local",
+  "images_count": 0,
+  "download_success_count": 0,
+  "post_image_counts": {},
+  "signed_url_policy": "signed query tokens were used only in-memory and are not persisted",
+  "ocr_status": "not_run",
+  "files": {
+    "index": "D:/Dream/Quant/Quant Trading Knowledge_base/exports/zsxq-originals/2026-08-13/triangle-xiaohuang-notes/images.md",
+    "manifest": "D:/Dream/Quant/Quant Trading Knowledge_base/exports/zsxq-originals/2026-08-13/triangle-xiaohuang-notes/images-manifest.json",
+    "images_dir": "D:/Dream/Quant/Quant Trading Knowledge_base/exports/zsxq-originals/2026-08-13/triangle-xiaohuang-notes/images"
+  },
+  "images": []
+}
